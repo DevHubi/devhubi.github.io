@@ -1,16 +1,22 @@
 *{
     margin: 0;
-    margin-top: 40px;
     padding: 0;
     text-decoration: none;
-    font-family: "Open Sans", sans-serif;
     box-sizing: border-box;
     text-align: center;
+    background-color: #181c21;
+}
+
+.title {
+    margin: 100px;
+    font-family: "Open Sans Semibold", sans-serif;
+    font-size: 36px;
+    color: white;
 }
 
 .logo {
-    width: 512px;
-    height: 512px;
+    width: 256px;
+    height: 256px;
     background-image: url(/assets/devhub_logo.png);
     background-size: contain;
     margin-left: auto;
