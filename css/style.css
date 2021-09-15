@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: "Open Sans", sans-serif;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 512px;
+    height: 512px;
+    background-image: url(/assets/devhub_logo.png);
+    background-size: contain;
+}
