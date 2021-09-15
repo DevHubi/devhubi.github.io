@@ -1,9 +1,11 @@
 *{
     margin: 0;
+    margin-top: 40px;
     padding: 0;
     text-decoration: none;
     font-family: "Open Sans", sans-serif;
     box-sizing: border-box;
+    text-align: center;
 }
 
 .logo {
@@ -11,4 +13,6 @@
     height: 512px;
     background-image: url(/assets/devhub_logo.png);
     background-size: contain;
+    margin-left: auto;
+    margin-right: auto;
 }
